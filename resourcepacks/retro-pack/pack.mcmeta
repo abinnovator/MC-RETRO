@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Make minecraft look more retro, old, and vintage",
+    "min_format": [84, 0],
+    "max_format": [2147483647, 0]
+  }
+}

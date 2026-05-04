@@ -1,0 +1,38 @@
+/give @s minecraft:ender_pearl 200
+/give @s minecraft:wind_charge 200
+/gamerule keep_inventory true
+/setworldspawn ~ ~ ~
+/give @s minecraft:enchanted_golden_apple 64
+/time set mindight
+/time set midnight
+/give @s minecraft:wind_charge 200
+/give @s minecraft:ender_pearl 200
+/summon minecraft:zombie
+/summon minecraft:armor_stand 542.45 72.20 140.00 [2]
+/summon minecraft:armor_stand 542.45 72.20 140.00
+/summon minecraft:armor_stand
+/summon minecraft:armor_stand\
+/summon minecraft:armor_stand
+/locate biome minecraft:snowy_taiga
+/tp @s 826 72 -197
+/give @s minecraft:firework_rocket 60
+/tick freeze
+/tick unfreeze
+/summon minecraft:pig
+/tp @s 826 72 -197
+/summon minecraft:pig
+/locate biome minecraft:snowy_taiga
+/give @s minecraft:wind_charge 200
+/summon minecraft:armor_stand
+/summon minecraft:cow
+/tp @s 826 72 -197
+/summon minecraft:skeleton
+/summon minecraft:wolf
+/kill @s
+/summon minecraft:wolf
+/kill @s
+/give @s minecraft:wind_charge 200
+/summon minecraft:enderman
+/tick freeze
+/tick unfreeze
+/
